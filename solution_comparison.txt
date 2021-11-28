@@ -1,0 +1,5 @@
+Compare & contrast solution 1 (my solution) & 2 (ls solution):
+
+- With only 3 possible game outcomes, the compactness of solution 1 compared to solution 2 is hard to examine. 
+- But it is clear to see that representing the game outcomes with data avoids the hassle of needing to duplicate conditional logic.
+- Solution 1 is an abstraction of the game logic that solution 2 explicitly lays out. 
